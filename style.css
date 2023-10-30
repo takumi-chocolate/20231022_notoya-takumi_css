@@ -34,22 +34,22 @@
 }
 .content-ttl {
     position: absolute;
-    top: 110px;
-    font-size: 50px;
+    top: 170px;
+    font-size: 70px;
 
 }
-.img {
-    margin: 0px auto;
+.content-img {
+    width: 800px;
     position: absolute;
-    top: 100px;
-    right:300px;
+    top: -50px;
+    left: 730px;
     z-index: 10;
 }
 .content-blue {
     background-color: blue;
-    padding-bottom: 200px;
-    width: 800px;
+    padding-bottom: 300px;
+    width: 1200px;
     position: absolute;
-    top: 215px;
+    top: 320px;
     z-index: 0;
 }
