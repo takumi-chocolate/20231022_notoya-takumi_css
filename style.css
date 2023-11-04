@@ -39,7 +39,7 @@
 
 }
 .content-img {
-    width: 800px;
+    width: 60%;
     position: absolute;
     top: -30px;
     left: 47%;
@@ -48,7 +48,7 @@
 .content-blue {
     background-color: blue;
     padding-bottom: 300px;
-    width: 1200px;
+    width: 80%;
     position: absolute;
     top: 320px;
     z-index: 0;
