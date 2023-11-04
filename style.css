@@ -39,16 +39,16 @@
 
 }
 .content-img {
-    width: 60%;
+    width: 800px;
     position: absolute;
-    top: -50px;
-    left: 730px;
+    top: -30px;
+    left: 47%;
     z-index: 10;
 }
 .content-blue {
     background-color: blue;
     padding-bottom: 300px;
-    width: 80%;
+    width: 1200px;
     position: absolute;
     top: 320px;
     z-index: 0;
