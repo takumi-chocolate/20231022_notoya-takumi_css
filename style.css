@@ -25,8 +25,18 @@
 .list4 {
     list-style: none;
 }
-
-
+.link1 {
+    text-decoration: none;
+}
+.link2 {
+    text-decoration: none;
+}
+.link3 {
+    text-decoration: none;
+}
+.link4 {
+    text-decoration: none;
+}
 .content {
     position: relative;
     top: 100px;
@@ -34,22 +44,23 @@
 }
 .content-ttl {
     position: absolute;
-    top: 170px;
+    top: 230px;
     font-size: 70px;
-
+    z-index: 20;
 }
 .content-img {
-    width: 60%;
+    height: 60vh;
+    width: 58vw;
     position: absolute;
-    top: -30px;
-    left: 47%;
+    top: 30px;
+    left: 40%;
     z-index: 10;
 }
 .content-blue {
     background-color: blue;
     padding-bottom: 300px;
-    width: 80%;
+    width: 80vw;
     position: absolute;
-    top: 320px;
+    top: 380px;
     z-index: 0;
-}
+    }
